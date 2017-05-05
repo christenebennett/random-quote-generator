@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;     
+  background-color: black;
+}
+#content{
+  text-align: center;
+  color: white;
+  width: 90%;
+  height: auto;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #9F0004;
+
+}
+img {
+  margin: 0 auto;
+  max-height: 200px;  
+}
+#newQuote {
+font-family: 'Carrois Gothic SC', sans-serif;
+  font-size: 200%;
+}
+h1 {
+font-family: 'Carrois Gothic SC', sans-serif;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+
+}
+button {
+  background-color: #FFFFFF;
+  color: #000000;
+  text-decoration: none;
+  padding: 7px;
+  margin: 5px;
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;  
+  border: none;
+  border-radius: 5px;
+}
+
